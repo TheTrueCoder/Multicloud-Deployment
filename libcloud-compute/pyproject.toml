@@ -7,6 +7,7 @@ authors = ["Nathan <thetruecoderman@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 apache-libcloud = "^3.6.0"
+requests-debugger = "^0.0.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
